@@ -65,15 +65,15 @@
   
   .location .city {
     /* color: #fff; */
-    font-size: 80px;
-    font-weight: 700;
+    font-size: 50px;
+    font-weight: 500;
     margin: 20px;
   }
   
   /* Date */
   
   .location .date {
-    font-size: 50px;
+    font-size: 20px;
   }
   
   /* Temperature */
